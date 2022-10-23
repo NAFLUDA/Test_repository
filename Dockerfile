@@ -1,7 +1,6 @@
 FROM ubuntu:latest
 
 RUN apt update
-//RUN apt python -y
 
 WORKDIR /usr/app/src
 
