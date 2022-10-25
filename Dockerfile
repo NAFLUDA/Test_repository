@@ -1,4 +1,5 @@
-FROM ubuntu:latest
+//FROM ubuntu:latest
+FROM alpine/git:latest
 
 RUN apt update
 
