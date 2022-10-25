@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+FROM python:latest
 
 RUN apt update
 
